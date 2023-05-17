@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="VIEWER.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="VIEWERDlg.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="DIALOG_LOADING.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="DIALOG_MAIN.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="DIALOG_ABILITY.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="DIALOG_FOCUS_1.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="DIALOG_FOCUS_5.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="DIALOG_FOCUS_2.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="DIALOG_FOCUS_3.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="DIALOG_FOCUS_4.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="DIALOG_SAVE_ALARM.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="VIEWER.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="VIEWERDlg.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DIALOG_LOADING.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DIALOG_MAIN.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DIALOG_ABILITY.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DIALOG_FOCUS_1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DIALOG_FOCUS_5.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DIALOG_FOCUS_2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DIALOG_FOCUS_3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DIALOG_FOCUS_4.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DIALOG_SAVE_ALARM.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="VIEWER.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\VIEWER.rc2">
+      <Filter>리소스 파일</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\VIEWER.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\logo.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\OFF.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\ON.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\SAVE.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\bitmap1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\BG.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\WIA.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\OFF_WHITE.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\ON_WHITE.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\SAVE_WHITE.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\ANGLE_OFF.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\ANGLE_ON.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\CIRCLE_OFF.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\CIRCLE_ON.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\DISTANCE_OFF.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\DISTANCE_ON.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\GRAPHIC_OFF.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\GRAPHIC_ON.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\LINE_OFF.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\LINE_ON.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\RECTANGLE_OFF.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\RECTANGLE_ON.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\DELETE.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\FOLDER.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\SAVE_LOG.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
